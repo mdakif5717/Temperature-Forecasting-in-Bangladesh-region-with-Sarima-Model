@@ -8,20 +8,12 @@ This project demonstrates how to use the **Seasonal AutoRegressive Integrated Mo
 - Forecasting future values with confidence intervals
 - Plotting and diagnostic checking
 
-## 🧪 Technologies Used
+## 🧪 Packages Used
 - Python 3
 - `pandas`, `numpy` for data handling
 - `matplotlib`, `seaborn` for visualization
 - `statsmodels` for SARIMA modeling
 
-## 📂 Project Structure
-```
-.
-├── 10. Sarima_weather.ipynb   # Main notebook
-├── README.md                  # Project overview
-├── LICENSE                    # MIT License
-└── .gitignore                 # Git exclusions
-```
 
 ## 🔍 Highlights
 
